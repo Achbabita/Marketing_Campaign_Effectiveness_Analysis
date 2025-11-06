@@ -37,4 +37,5 @@ This dataset contains detailed information about marketing campaigns, including 
 ### Key Insights
 
 ## Contributors
-- ** Babita Acharya ** (Student, BSc CSIT, Trinity International College)
+- **Babita Acharya** (Student, BSc CSIT, Trinity International College)
+
